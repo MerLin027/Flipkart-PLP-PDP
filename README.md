@@ -24,7 +24,7 @@ This repository contains a recreated version of the lipkart Product Listing Page
 
 ## Deployment
 
-This project is live and can be viewed at: https://spotify-clone-miniproject.netlify.app/
+This project is live and can be viewed at: 
 
 The site is deployed using Netlify.
 
@@ -40,4 +40,4 @@ This is an examination project for educational purposes. However, if you'd like 
 
 Vrushank Ganatra - 23it032@charusat.edu.in
 
-Project Link: https://github.com/MerLin027/
+Project Link - https://github.com/MerLin027/Flipkart-PLP-PDP.git
