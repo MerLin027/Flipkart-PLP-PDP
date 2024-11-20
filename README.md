@@ -4,7 +4,7 @@ This project is a clone of Flipkart Product Listing Page/Product Details Page, c
 
 ## Project Description
 
-This repository contains a recreated version of the lipkart Product Listing Page/Product Details Page. The main objectives of this project were:
+This repository contains a recreated version of the Flipkart Product Listing Page/Product Details Page. The main objectives of this project were:
 
 1. To create a faithful clone of the Flipkart website's Product Listing Page/Product Details Page
 2. To practice and demonstrate HTML, CSS, and potentially JavaScript skills
