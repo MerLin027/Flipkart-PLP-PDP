@@ -20,11 +20,10 @@ This repository contains a recreated version of the lipkart Product Listing Page
 
 - HTML5
 - CSS3
-- JavaScript
 
 ## Deployment
 
-This project is live and can be viewed at: 
+This project is live and can be viewed at: https://23it032.netlify.app/
 
 The site is deployed using Netlify.
 
