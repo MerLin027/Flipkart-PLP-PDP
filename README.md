@@ -34,7 +34,7 @@ This is an examination project for educational purposes. However, if you'd like 
 
 ## Acknowledgments
 
-- Flipkart for the original design
+Flipkart for the original design
 
 ## Contact
 
